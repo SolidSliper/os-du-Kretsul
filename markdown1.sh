@@ -22,8 +22,7 @@ do
 	elif echo "$LINE" | grep '_.*_' >/dev/null; then
 		LINE=$(echo "$LINE" | sed 's@_\([^_]\+\)_@<em>\1</em>@g')
 		echo "$LINE"
-	elif [[ $LINE = "" ]]; then
-	#elif [[ -z "${LINE// }" ]]; then
+	elif echo "$LINE" | grep '^\s*$' >/dev/null; then
 		echo "<p>"
 	else
 		echo "$LINE"

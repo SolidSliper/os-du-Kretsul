@@ -1,7 +1,7 @@
 # O úpadku doby
 ## Karel Čapek
 Před jeskyní bylo ticho. Mužové odešli hned zrána mávajíce oštěpy směrem k
-__Blansku__ nebo k __Rá_jci__, kde bylo vystopováno stádo sobů; ženy zatím po lese
+__Blansku__ nebo k __Rájci__, kde bylo vystopováno stádo sobů; ženy zatím po lese
 sbíraly bobule klikvy a jen časem bylo slyšet jejich ječivý pokřik a repetění;
 děti se nejspíš čabraly dole v potoce – ostatně kdo by se těch harantů
 dohlídal, holoty darebné a zvlčilé. A tož starý pračlověk _Janeček_ klímal v tom

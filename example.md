@@ -9,7 +9,7 @@ vzácném tichu na mírném slunci říjnovém; po pravdě řečeno chrápal a v
 hvízdalo, ale dělal, jako by nespal, nýbrž jako by střežil jeskyni kmene a
 panoval nad ní, jakož se sluší na starého náčelníka.
 
-_Janečková_ rozložila čerstvou kůži _medvědí_ a jala se ji oškrabovat ostrým
+_Janečková_ rozložila čerstvou kůži__ _medvědí_ __a jala se ji oškrabovat ostrým
 pazourkem. To se musí dělat důkladně, píď po pídi – a ne jako to dělá mladá,
 napadlo starou Janečkovou; to famfárum to jen tak halabala odrbe a už zas běží
 muchlat a muckat se s dětmi – takové kůže, myslí si stará Janečková, nic
